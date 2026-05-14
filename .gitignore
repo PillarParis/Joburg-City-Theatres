@@ -1,0 +1,7 @@
+.next/
+node_modules/
+tsconfig.tsbuildinfo
+.codex-tools/
+.codex-preview/
+.next-dev.*.log
+storage/*.jsonl
